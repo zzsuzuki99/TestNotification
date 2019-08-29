@@ -1,0 +1,4 @@
+<resources>
+    <string moduleConfig="true" name="reactNativeCodePush_androidDeploymentKey">4F0qdkkMIWCo1UO2nxDoExW8N8HMbda2cb2f-a5bb-497e-a2df-80d96b427d33</string>
+    <string name="app_name">goldtime</string>
+</resources>

@@ -1,0 +1,418 @@
+{
+  "alertMessage": {},
+  "nav": {
+    "key": "StackRouterRoot",
+    "isTransitioning": false,
+    "index": 0,
+    "routes": [
+      {
+        "routeName": "DashboardScreen",
+        "key": "id-1550636953813-1"
+      }
+    ]
+  },
+  "auth": {
+    "accessToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjQyMyIsIm5hbWUiOiJOYW0iLCJjb2RlIjoiQ1VTNDIzIiwicGhvbmUiOiIwMzYyNDIwNzY4IiwiZW1haWwiOiIiLCJ0aW1lIjoiMDJcLzE4XC8yMDE5IDEwOjE5IGFtIiwiYWRkcmVzcyI6IiJ9.Vi6PFHfxXEkqdl76Piq1mMVsl5fc0Ua1cRTiWLZNrrc"
+  },
+  "navAction": {
+    "sliderState": false
+  },
+  "register": {},
+  "updateAccount": {},
+  "feedback": {},
+  "store": {
+    "storeDetails": {
+      "address": "120 Hồng Bàng, Phường 12, Quận 5, TP. Hồ Chí Minh",
+      "avatar": "http://hop.3f.design/uploads/demo3f/store/2019/03/19/thumbnail/w768_ddb20541c328a8f760d1e591f4564799.jpg",
+      "balance": "0đ",
+      "balance_bk": 0,
+      "booking": "1",
+      "cid": 431,
+      "cover": "http://hop.3f.design/uploads/demo3f/store/2019/03/19/thumbnail/w768_15f697b4cc0394c1725acb18b3ca1bd1.jpg",
+      "date_format": "DD/MM/YYYY",
+      "default_service_booking_price": 9000,
+      "email": null,
+      "home": "1",
+      "hours_time_format": 24,
+      "id": 22,
+      "name": "Bệnh viện Phạm Ngọc Thạch",
+      "object": "0",
+      "owner": {
+        "id": 431, "name": "GoldtimeAvDDFDFD", "code": "CUS00000431", "birthday": "23/03/2019", "sex": "0"
+      },
+      "phone": "(028) 385-5020",
+      "positionOwner": null,
+      "rating_aver": 0,
+      "rating_count": 0,
+      "status": "Đang hoạt động",
+      "sub": "Bệnh viện",
+      "sub_id": 4,
+      "tax": null,
+      "time": "27/02/2019 14:59 PM",
+      "timezone_id": "Asia/Ho_Chi_Minh",
+      "total_balance": "0đ",
+      "type": "Cửa hàng"
+    },
+    "listCatalogStore": {
+      "status": "success",
+      "data": [
+        {
+          "cat_id": "4",
+          "cat_name": "Bệnh viện",
+          "parent_id": "1",
+          "cat_icon": "http://hop.3f.design/uploads/demo3f/icons/perkx_1548907145.jpg",
+          "cat_bcolor": "213fa9",
+          "group_id": "1",
+          "group_name": "Y khoa"
+        },
+        {
+          "cat_id": "5",
+          "cat_name": "Viện (Pasteur...)",
+          "parent_id": "1",
+          "cat_icon": "http://hop.3f.design/uploads/demo3f/icons/cuiuo_1548906311.jpg",
+          "cat_bcolor": "cf137c",
+          "group_id": "1",
+          "group_name": "Y khoa"
+        },
+        {
+          "cat_id": "6",
+          "cat_name": "Trung tâm (YTDP,...)",
+          "parent_id": "1",
+          "cat_icon": "http://hop.3f.design/uploads/demo3f/icons/xgjzd_1548906344.jpg",
+          "cat_bcolor": "3fa721",
+          "group_id": "1",
+          "group_name": "Y khoa"
+        },
+        {
+          "cat_id": "7",
+          "cat_name": "Trạm y tế",
+          "parent_id": "1",
+          "cat_icon": "http://hop.3f.design/uploads/demo3f/icons/juqgo_1548906383.jpg",
+          "cat_bcolor": "059fea",
+          "group_id": "1",
+          "group_name": "Y khoa"
+        },
+        {
+          "cat_id": "8",
+          "cat_name": "Phòng khám đa khoa",
+          "parent_id": "1",
+          "cat_icon": "http://hop.3f.design/uploads/demo3f/icons/jwdjj_1548906434.jpg",
+          "cat_bcolor": "e66747",
+          "group_id": "1",
+          "group_name": "Y khoa"
+        },
+        {
+          "cat_id": "14",
+          "cat_name": "Trung tâm thẩm mỹ",
+          "parent_id": "1",
+          "cat_icon": "http://hop.3f.design/uploads/demo3f/icons/yonjv_1548988803.jpg",
+          "cat_bcolor": "e10dbc",
+          "group_id": "2",
+          "group_name": "Làm đẹp"
+        },
+        {
+          "cat_id": "15",
+          "cat_name": "Spa làm đẹp",
+          "parent_id": "1",
+          "cat_icon": "http://hop.3f.design/uploads/demo3f/icons/ymjat_1548988843.jpg",
+          "cat_bcolor": "19cc1d",
+          "group_id": "2",
+          "group_name": "Làm đẹp"
+        },
+        {
+          "cat_id": "16",
+          "cat_name": "Ngân hàng",
+          "parent_id": "1",
+          "cat_icon": "http://hop.3f.design/uploads/demo3f/icons/qbzow_1548989278.jpg",
+          "cat_bcolor": "2540a6",
+          "group_id": "3",
+          "group_name": "Tài chính"
+        },
+        {
+          "cat_id": "17",
+          "cat_name": "Chi cục thuế",
+          "parent_id": "1",
+          "cat_icon": "http://hop.3f.design/uploads/demo3f/icons/bchha_1548989377.jpg",
+          "cat_bcolor": "dd10b8",
+          "group_id": "4",
+          "group_name": "Hành chính công"
+        }
+      ],
+      "page": {
+        "total": null,
+        "perPage": null,
+        "currentPage": null
+      }
+    },
+    "listService": {
+      "status": "success",
+      "msg": "List Service",
+      "data": [
+        {
+          "id": "1",
+          "name": "Bốc số",
+          "bcolor": "213fa9",
+          "icon": "http://hop.3f.design/uploads/demo3f/icons/pkuzy_1548920797.jpg"
+        },
+        {
+          "id": "2",
+          "name": "Đặt lịch",
+          "bcolor": "d0137d",
+          "icon": "http://hop.3f.design/uploads/demo3f/icons/wetil_1548921112.jpg"
+        },
+        {
+          "id": "3",
+          "name": "Vay vốn",
+          "bcolor": "3fa921",
+          "icon": "http://hop.3f.design/uploads/demo3f/icons/eezbl_1548921174.jpg"
+        },
+        {
+          "id": "4",
+          "name": "Sức khoẻ",
+          "bcolor": "e36646",
+          "icon": "http://hop.3f.design/uploads/demo3f/icons/ojmjl_1548921215.jpg"
+        },
+        {
+          "id": "5",
+          "name": "So sánh giá",
+          "bcolor": "04a2f0",
+          "icon": "http://hop.3f.design/uploads/demo3f/icons/wyzhy_1548922535.jpg"
+        },
+        {
+          "id": "6",
+          "name": "Dịch vụ mở thẻ online",
+          "bcolor": "ecc122",
+          "icon": "http://hop.3f.design/uploads/demo3f/icons/tzgkn_1548922806.jpg"
+        },
+        {
+          "id": "7",
+          "name": "Dịch vụ mở thẻ sổ tiết kiệm online",
+          "bcolor": "f1252a",
+          "icon": "http://hop.3f.design/uploads/demo3f/icons/qxutk_1548922869.jpg"
+        },
+        {
+          "id": "8",
+          "name": "Tính nhu cầu dinh dưỡng",
+          "bcolor": "ec22ae",
+          "icon": "http://hop.3f.design/uploads/demo3f/icons/oxlcp_1548922931.jpg"
+        }
+      ]
+    },
+    "listUtility": {
+      "status": "success",
+      "data": [
+        {
+          "cat_id": "10",
+          "cat_name": "Ăn uống",
+          "parent_id": "9",
+          "cat_icon": "http://hop.3f.design/uploads/demo3f/icons/vuuqe_1548923693.jpg",
+          "cat_bcolor": "",
+          "group_id": "0",
+          "group_name": null
+        },
+        {
+          "cat_id": "11",
+          "cat_name": "Nghỉ ngơi",
+          "parent_id": "9",
+          "cat_icon": "http://hop.3f.design/uploads/demo3f/icons/qmplr_1548923712.jpg",
+          "cat_bcolor": "",
+          "group_id": "0",
+          "group_name": null
+        },
+        {
+          "cat_id": "12",
+          "cat_name": "Mua sắm",
+          "parent_id": "9",
+          "cat_icon": "http://hop.3f.design/uploads/demo3f/icons/nzuft_1548923722.jpg",
+          "cat_bcolor": "",
+          "group_id": "0",
+          "group_name": null
+        },
+        {
+          "cat_id": "13",
+          "cat_name": "Thời trang",
+          "parent_id": "9",
+          "cat_icon": "http://hop.3f.design/uploads/demo3f/icons/svxmh_1548923733.jpg",
+          "cat_bcolor": "",
+          "group_id": "0",
+          "group_name": null
+        }
+      ],
+      "page": {
+        "total": null,
+        "perPage": null,
+        "currentPage": null
+      }
+    }
+  },
+  "products": {
+    "listHomeService": [
+      {
+        "id": 472,
+        "name": "Thay băng, rửa vết thương",
+        "description": "Thay băng tại nhà nhanh và tiện lợi",
+        "priceWithHealthInsurance": 120000,
+        "priceWithoutHealthInsurance": 120000,
+        "image": "http://hop.3f.design/uploads/demo3f/product/2019/03/25/f8e29c838703fdc3264c9e8e61cb395b.jpg",
+        "tax": 0
+      },
+      {
+        "id": 473,
+        "name": "Thay băng, rửa vết thương",
+        "description": "Thay băng tại nhà nhanh và tiện lợi",
+        "priceWithHealthInsurance": 120000,
+        "priceWithoutHealthInsurance": 120000,
+        "image": "http://hop.3f.design/uploads/demo3f/product/2019/03/25/f8e29c838703fdc3264c9e8e61cb395b.jpg",
+        "tax": 0
+      }
+    ]
+  },
+  "user": {
+    "id": "423",
+    "name": "Nam123",
+    "phoneNumber": "0362420768",
+    "sex": "",
+    "email": "nguyenquoc.nam9c@gmail.",
+    "dob": "04/02/1997",
+    "address": "asdasdasasd",
+    "avatar": ""
+  },
+  "articles": {
+    "entities": {
+      "articles": {
+        "2": {
+          "id": "2",
+          "title": "Bảo Việt đạt doanh thu gần 42.000 tỷ đồng năm 2018",
+          "sid": "16",
+          "description": "Ứng dụng công nghệ vào các sản phẩm được cho là nguyên nhân giúp doanh nghiệp có tăng trưởng trong năm qua.",
+          "content": "<article class=\"content_detail fck_detail width_common block_ads_connect\">\r\n<p class=\"Normal\">\r\nTheo báo cáo kết quả kinh doanh của tập đoàn Bảo Việt vừa công bố, tổng doanh thu hợp nhất năm 2018 ước đạt 41.799 tỷ đồng, tăng trưởng 27,6% so với cùng kỳ năm 2017.</p><p class=\"Normal\">\r\nTổng tài sản hợp nhất tại thời điểm 31/12/2018 đạt 113.769 tỷ đồng, tương đương 4 tỷ USD, tăng 24,5%. Vốn chủ sở hữu đạt 15.435 tỷ đồng, tăng 6,8% so với thời điểm cuối năm 2017. Tỷ suất lợi nhuận sau thuế trên vốn điều lệ của công ty mẹ 7,8%.</p><p class=\"Normal\">\r\nGiá trị cổ phiếu tập đoàn cũng nằm trong nhóm dẫn đầu cổ phiếu ngành bảo hiểm. Đóng cửa phiên giao dịch ngày 30/1, mã chứng khoán BVH ghi nhận mức giá 96.500 đồng mỗi cổ phiếu, giá trị vốn hóa tăng, đạt gần 67.000 tỷ đồng.</p><p>\r\nNăm qua cũng ghi nhận sự tăng trưởng của Bảo Việt trong hai lĩnh vực nòng cốt là bảo hiểm nhân thọ và bảo hiểm phi nhân thọ.</p><table align=\"center\" border=\"0\" cellpadding=\"3\" cellspacing=\"0\" class=\"tplCaption\" style=\"color:rgb(34,34,34);\"><tbody><tr><td>\r\n<img alt=\"polyad\" class=\"WidthDisplay\" data-natural-h=\"333\" data-natural-width=\"500\" src=\"https://i-kinhdoanh.vnecdn.net/2019/01/31/30-1-201928-144030673-w500-9871-1548906265.png\"></td>\r\n</tr><tr><td class=\"CaptionImg\">\r\n<p class=\"Image\">\r\nKết quả kinh doanh năm 2018 của tập đoàn Bảo Việt ghi nhận tăng trưởng trên nhiều lĩnh vực.</p>\r\n</td>\r\n</tr></tbody></table><p>\r\nCụ thể, lĩnh vực kinh doanh bảo hiểm phi nhân thọ ước đạt 11.449 tỷ đồng doanh thu, tăng trưởng 20,7% . Trong đó, Bảo hiểm Bảo Việt ước đạt tổng doanh thu phí bảo hiểm gốc 9.841 tỷ đồng, tăng 22,2%. Các lĩnh vực bảo hiểm xe hơi, y tế, tai nạn. tàu thủy... giữ đà tăng trưởng.</p><p>\r\nRiêng bảo hiểm nhân thọ, doanh thu năm 2018 là 29.342 tỷ đồng tăng 32,5% so với năm trước. Bảo Việt Nhân Thọ tăng trưởng mạnh với doanh thu phí bảo hiểm 21.508 tỷ đồng, tăng 23,1% so với cùng kỳ năm 2017.</p><p>\r\nDoanh nghiệp áp dụng nhiều công nghệ thông minh như chatbot tự động phục vụ khách hàng 24/24 giờ, đa dạng hình thức thanh toán, ứng dụng chăm sóc khách hàng MyBVLife. Bên cạnh đó, hàng loạt phần mềm quản lý và ứng dụng trực tuyến được ra mắt như: Baoviet Online, Baoviet Pay, Baoviet Direct, BVS@Trade... nhằm cung cấp các giải pháp ví điện tử, cho phép khách hàng lựa chọn và trực tiếp mua sản phẩm bảo hiểm trên ứng dụng. </p><p>\r\nTrong lĩnh vực kinh doanh chứng khoán, tổng doanh thu của Công ty cổ phần chứng khoán Bảo Việt (BVSC) là 549 tỷ đồng, tăng 13,4%. Công ty vào top 3 công ty chứng khoán có thị phần giao dịch trái phiếu và top 10 công ty chứng khoán có thị phần giao dịch cổ phiếu và chứng chỉ quỹ lớn nhất trên 2 sàn HSX và HNX.</p><p>\r\nĐại diện Bảo Việt cho biết, lĩnh vực quản lý quỹ cũng tiếp tục tăng trưởng ổn định về quy mô tài sản quản lý, kết quả kinh doanh và đầu tư. Theo đó, tổng tài sản quản lý của Công ty Quản lý Quỹ Bảo Việt (BVF) đạt 53.896 tỷ đồng, tương đương gần 2,5 tỷ USD, tăng trưởng 21,1% so với thời điểm cuối năm 2017.</p><p>\r\nNăm 2019, đại diện Bảo Việt khẳng định sẽ tiếp tục nâng cao năng lực cạnh tranh và hiệu quả kinh doanh trên nền tảng công nghệ. Theo đó, trong chiến lược giai đoạn 2016 - 2020, tập đoàn sẽ tập trung mở rộng thị trường, ứng dụng công nghệ số và triển khai nghiên cứu ra mắt chuỗi sản phẩm tích hợp đa dạng và nhiều ưu đãi lớn.</p><p>\r\nBảo Việt là tập đoàn tài chính - bảo hiểm, hoạt động từ năm 1965 có trụ sở tại Hà Nội và mạng lưới hoạt động trên toàn quốc. Từ tháng 6/2009, cổ phiếu BVH niêm yết trên Sở Giao dịch Chứng khoán TP HCM.</p><p style=\"text-align:right;\">\r\n<strong>Phong Vân</strong></p>\t</article>",
+          "time": "01/05/2019 08:50 am",
+          "stime": "01/05/2019 08:50 am",
+          "etime": "01/07/2019 04:24 pm",
+          "is_hot": "1",
+          "img": "http://hop.3f.design/uploads/demo3f/article/baoviet.png",
+          "sname": "Công ty TNHH Thời Trang T&H",
+          "saddress": "476/37 Huỳnh Văn Bánh",
+          "sphone": "(090) 158-7634",
+          "rating_count": "0",
+          "rating_aver": 0
+        },
+        "3": {
+          "id": "3",
+          "title": "Cảnh báo: Đã xuất hiện các cuộc gọi lừa đảo trên iPhone",
+          "sid": "14",
+          "description": "Không chỉ với các thiết bị Android, người dùng iPhone đang là mục tiêu của các đối tượng lừa đảo.",
+          "content": "<p>Giờ đây, các thủ đoạn lừa đảo người dùng đang ngày càng trở nên tinh vi hơn, bất chấp thiết bị Android hay iPhone. Thông thường, chúng sẽ sử dụng một tài liệu giả được gửi qua email hoặc văn bản, yêu cầu nạn nhân cung cấp thông tin từ một công ty mà bạn tin tưởng. Ví dụ: nếu bạn đang gửi ngân hàng Wells Fargo, bạn sẽ nhận được email từ ngân hàng có vẻ hợp pháp và yêu cầu một số thông tin nhất định vì một số lý do.</p>\r\n\r\n<p align=\"center\"><img class=\"news-image\" alt=\"Cảnh báo: Đã xuất hiện các cuộc gọi lừa đảo trên iPhone - 1\" onclick=\"return openNewImage(this, '')\" src=\"https://cdn.24h.com.vn/upload/1-2019/images/2019-01-07/1546817830-564-canh-bao-cuoc-goi-gia-mao-tren-iphone-untitled-1546794629-width660height440.jpg\" /></p>\r\n\r\n<p style=\"color:#0000ff;font-style:italic;text-align:center;\">Các đối tượng lừa đảo đang hướng tới người dùng iPhone.</p>\r\n\r\n<p>Ví dụ: Email sẽ cho biết Wells Fargo cần số an sinh xã hội của bạn do trục trặc máy tính hoặc cần xác nhận số này sau vài năm. Khi tin tặc lấy được số đó từ bạn, chúng có thể ăn cắp tiền từ tài khoản ngân hàng của bạn. Thậm chí, các đối tượng lừa đảo còn cho bạn biết rằng bạn cần thực hiện một cuộc gọi nhất định hoặc truy cập vào một trang web nào đó để khắc phục sự cố.</p>\r\n\r\n<p>Mới đây KrebsonSecurity – một kiểu lừa đảo mới đang cố gắng \"bịp\" người dùng iPhone. Một người dùng iPhone có tên Jody Westby - CEO của công ty bảo mật Global Cyber ​​Risk LLC đã nhận được một cuộc gọi trên iPhone từ tổng đài giả mạo <a class='TextlinkBaiviet' href='https://www.24h.com.vn/apple-c55e3987.html' title='Apple'>Apple</a>.</p><div id=\"ADS_159_15s\" class=\"txtCent\"><script language='javascript' type='text/javascript'>//<![CDATA[ \r\n\r\nwindow.addEventListener(\"load\",function() {banner_tostring(ADS_159_15s, \"ADS_159_15s\");})\r\n\r\n //]]></script></div>\r\n\r\n<p align=\"center\"><div style=\"text-align: center;width: 100%;clear: both;position: relative;\">\r\n\t\t\t\t<div style=\"position:relative;max-width: 660px;margin: 0 auto\">\r\n\t\t\t\t\t<img class=\"news-image\" alt=\"Cảnh báo: Đã xuất hiện các cuộc gọi lừa đảo trên iPhone - 2\" onclick=\"return openNewImage(this, '')\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEX6+vqsEtnpAAAACklEQVQI12NgAAAAAgAB4iG8MwAAAABJRU5ErkJggg==\" data-original=\"https://cdn.24h.com.vn/upload/1-2019/images/2019-01-07/1546817830-775-canh-bao-cuoc-goi-gia-mao-tren-iphone-fakeapple-1546794629-width660height1095.jpg\" />\r\n\t\t\t\t\t<div id=\"24h-banner-in-image\" style=\"position: absolute;display: block;overflow: hidden;width: 660px;height: 90px;color: white;bottom: 0px;left: 0px\">\r\n\t\t\t\t\t\t<div id=\"ADS_139_15s\" class=\"txtCent\">\r\n\t\t\t\t\t\t\t<script language='javascript' type='text/javascript'>//<![CDATA[ \r\n\r\nwindow.addEventListener(\"load\",function() {banner_tostring(ADS_139_15s, \"ADS_139_15s\");})\r\n\r\n //]]></script>\r\n\t\t\t\t\t\t</div>\r\n\t\t\t\t\t\t<div id=\"24h-banner-in-image-close\" style=\"top:5px;right: 5px;position: absolute;display: none;overflow: hidden;width: 22px;height: 22px;color: #ccc;font-size: large;\">\r\n\t\t\t\t\t\t\t<img class=\"news-image\" alt=\"Cảnh báo: Đã xuất hiện các cuộc gọi lừa đảo trên iPhone - 3\" onclick=\"return openNewImage(this, '')\" id=\"in-image-close\" style=\"cursor: pointer;\" onclick=\"in_image_close();\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEX6+vqsEtnpAAAACklEQVQI12NgAAAAAgAB4iG8MwAAAABJRU5ErkJggg==\" data-original=\"https://cdn.24h.com.vn/upload/24h_banner_image_library/in-image-close.svg\"></img>\r\n\t\t\t\t\t\t</div>\r\n\t\t\t\t\t</div>\r\n\t\t\t\t</div>\r\n <script>\r\n document.getElementById(\"in-image-close\").setAttribute(\"onclick\", \"in_image_close();\");\r\n v_counter_interval = 0;\r\n var interval_in_image = setInterval(function() {\r\n if(document.getElementById(\"24h-banner-in-image\")){\r\n var v_element_in_image = document.getElementById(\"24h-banner-in-image\");\r\n if(v_element_in_image.childNodes[2] && v_element_in_image.childNodes[2].id){\r\n // setup căn phải\r\n if(document.getElementById(v_element_in_image.childNodes[2].id)){\r\n document.getElementById(v_element_in_image.childNodes[2].id).style.textAlign = \"right\";\r\n }\r\n if(v_element_in_image.childNodes[2].childNodes[1]){\r\n if(v_element_in_image.childNodes[2].childNodes[1].childNodes[0]){\r\n if(v_element_in_image.childNodes[2].childNodes[1].childNodes[0].id || (isIE() && v_element_in_image.childNodes[2].childNodes[1].id)){\r\n if(document.getElementById(v_element_in_image.childNodes[2].childNodes[1].childNodes[0].id) || (isIE() && document.getElementById(v_element_in_image.childNodes[2].childNodes[1].id))){\r\n if(isIE()){\r\n \r\n\t\t\t\t\t\t\t\t\t\t\t\t\tif(document.getElementById(v_element_in_image.childNodes[2].childNodes[1].childNodes[0].id).style.display !== \"none\" && document.getElementById(v_element_in_image.childNodes[2].childNodes[1].childNodes[0].id).getAttribute(\"data-google-query-id\") !== null){\r\n if(document.getElementById(\"24h-banner-in-image-close\")){\r\n document.getElementById(\"24h-banner-in-image-close\").style.display = \"inline-block\";\r\n }\r\n } else {\r\n if(document.getElementById(\"24h-banner-in-image-close\")){\r\n document.getElementById(\"24h-banner-in-image-close\").style.display = \"none\";\r\n }\r\n }\r\n } else {\r\n if(document.getElementById(v_element_in_image.childNodes[2].childNodes[1].childNodes[0].id).style.display !== \"none\" && document.getElementById(v_element_in_image.childNodes[2].childNodes[1].childNodes[0].id).getAttribute(\"data-google-query-id\") !== null){\r\n if(document.getElementById(\"24h-banner-in-image-close\")){\r\n document.getElementById(\"24h-banner-in-image-close\").style.display = \"inline-block\";\r\n }\r\n } else {\r\n if(document.getElementById(\"24h-banner-in-image-close\")){\r\n document.getElementById(\"24h-banner-in-image-close\").style.display = \"none\";\r\n }\r\n }\r\n }\r\n v_counter_interval++;\r\n if(v_counter_interval === 15){\r\n clearInterval(interval_in_image);\r\n }\r\n }\r\n }\r\n }\r\n }\r\n }\r\n }\r\n }, 1000);\r\n function in_image_close(){\r\n if(document.getElementById(\"24h-banner-in-image\")){\r\n document.getElementById(\"24h-banner-in-image\").innerHTML = \"\";\r\n }\r\n if(document.getElementById(\"24h-banner-in-image-close\")){\r\n document.getElementById(\"24h-banner-in-image-close\").innerHTML = \"\";\r\n }\r\n }\r\n \r\n\r\n //]]></script>\r\n </div></p>\r\n\r\n<p style=\"color:#0000ff;font-style:italic;text-align:center;\">Ảnh minh họa.</p>\r\n\r\n<p>Khi cô trả lời cuộc gọi, một tin nhắn cho biết máy chủ chứa số Apple ID đã bị xâm phạm và cô phải gọi tới số 1-866 trước khi sử dụng lại iPhone của mình. Thông tin được tạo bởi cuộc gọi sẽ khiến hầu hết nhiều người tin rằng chúng đến từ Apple vì có chứa địa chỉ chính xác của công ty tại Cupertino và số điện thoại hỗ trợ khách hàng. Chỉ có một thay đổi nhỏ mà hầu hết mọi người sẽ không nhận thấy là: không có \"s\" ở cuối \"http\" trong địa chỉ web.</p>\r\n\r\n<p>Westby đã gọi số Hỗ trợ thực của Apple và được thông báo rằng cuộc gọi mà cô vừa nhận không đến từ họ và đây là một trò lừa đảo. Trong khi đó, KrebsonSecurity gửi tin nhắn tới Westby và yêu cầu quay số (866-277-7794). Cô Westby đã quay số thuê bao này và được trả lời bởi một hệ thống tự động tự xưng là Hỗ trợ của Apple – Support Apple, cuối cùng là một người đàn ông giọng Ấn Độ đã nhấc điện thoại. Westby cho biết cô được yêu cầu quay số này vì có vấn đề với Apple ID của mình và ngay lập tức thuê bao đã cúp máy.</p>\r\n\r\n<p>Mặc dù không rõ người dùng iPhone sẽ thiệt hại những gì trong tình huống này nhưng việc lừa đảo họ thực hiện cuộc gọi tới tổng đài hỗ trợ giả của Apple sẽ khiến nạn nhân phải trả tiền oan. Vì vậy, khi nhận được bất cứ cuộc gọi nào từ số liên lạc lạ và người gọi bắt đầu hỏi thông tin cá nhân, thông tin tài chính hoặc muốn biết số thẻ tín dụng để thanh toán cho một số loại hỗ trợ kỹ thuật nào đó, bạn hãy gác máy ngay lập tức.</p>\r\n",
+          "time": "01/07/2019 04:24 pm",
+          "stime": "01/07/2019 04:24 pm",
+          "etime": "01/19/2019 06:10 am",
+          "is_hot": "0",
+          "img": "http://hop.3f.design/uploads/demo3f/article/phone.png",
+          "sname": "Trung tâm ý tế dự phòng quận 3",
+          "saddress": "bbbbbbb",
+          "sphone": "(999) 999-9999",
+          "rating_count": "3",
+          "rating_aver": 3.3
+        }
+      }
+    },
+    "result": ["2", "3"]
+  },
+  "loading": {
+    "isLoading": false
+  },
+  "transactionHistory": {
+    "promotion": "<p><a href=\"http://jsdf.co\">&hearts; nice job!</a></p>",
+    "items": [
+      {
+        "newsHot": false,
+        "title": "Ngân hàng Á Châu CN Huỳnh Văn Bánh",
+        "url": "http://hop.3f.design/uploads/demo3f/customer/2019/03/19/thumbnail/w768_d6c8ff7b1607aaf7c3e6bf02cb51babd.jpg",
+        "redNote": "Ưu đãi mở tài khoản VISA Quốc tế miễn phí 0đ. Tặng Vali Trip cho Khách hàng...",
+        "address": "102A2 Đường Huỳnh Văn Bánh, P. 1,Q.Go Vap",
+        "money": "-14000",
+        "time": "12/2/1998"
+      },
+      {
+        "newsHot": true,
+        "title": "Ngân hàng Á Châu CN Huỳnh Văn Bánh",
+        "url": "http://hop.3f.design/uploads/demo3f/customer/2019/03/19/thumbnail/w768_d6c8ff7b1607aaf7c3e6bf02cb51babd.jpg",
+        "redNote": "Ưu đãi mở tài khoản VISA Quốc tế miễn phí 0đ. Tặng Vali Trip cho Khách hàng...",
+        "address": "102A2 Đường Huỳnh Văn Bánh, P. 1,Q.Go Vap",
+        "money": "-14000",
+        "time": "12/2/1998"
+      }
+    ]
+  },
+  "historyService": {
+    "status": "success",
+    "msg": "Success",
+    "data": [
+      {
+        "orderCnt": 1,
+        "storeId": 1,
+        "store": [
+          {
+            "id": 14,
+            "name": "Trung tâm y tế dự phòng quận 3",
+            "address": "270 Cao Thắng",
+            "cid": 381,
+            "type": "Cửa hàng",
+            "sub": "Trung tâm (YTDP,...)",
+            "time": "01/01/1988",
+            "object": 1,
+            "status": "Chờ duyệt",
+            "total_balance": "50.000đ",
+            "balance": "20.000đ",
+            "phone": "(999) 999-9999",
+            "avatar": "http://hop.3f.design/public/images/no-image.png",
+            "cover": "http://hop.3f.design/public/images/no-image.png",
+            "boking": 1,
+            "tax": 8763013456,
+            "email": "spathammy101@gmail.com",
+            "owner": [
+              {
+                "id": 1,
+                "name": "Khách hàng 01",
+                "code": "CUS01",
+                "birthday": "12/01/1987",
+                "sex": "1=Nam,2=Nữ",
+                "phone": "090987658",
+                "email": "khachhang01@gmail.com",
+                "time": "01/01/1988",
+                "address": "476/37 Huỳnh Văn Bánh",
+                "avatar": "http://hop.3f.desin/avatar/pic01.png"
+              }
+            ],
+            "type_id": 1,
+            "sub_id": 6,
+            "rating_count": 3,
+            "rating_aver": 3.3
+          }
+        ],
+        "list": [
+          {
+            "id": 1,
+            "code": "OD000000001",
+            "paymentMethod": "cash",
+            "paymentStatus": "paid",
+            "status": "pending",
+            "total": "1000đ",
+            "time": "01/01/1970",
+            "items": [
+              {
+                "id": 1,
+                "name": "Sản phẩm 1",
+                "description": "Tốt cho sức khỏe",
+                "total": "1000đ",
+                "status": "pending",
+                "image": "image.png",
+                "productType": "string"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

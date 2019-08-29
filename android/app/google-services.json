@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1086179979380",
+    "firebase_url": "https://goldtimeapp-5dba6.firebaseio.com",
+    "project_id": "goldtimeapp-5dba6",
+    "storage_bucket": "goldtimeapp-5dba6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1086179979380:android:6f23dc7fd48fb217",
+        "android_client_info": {
+          "package_name": "com.goldtime"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1086179979380-qdg40r8got3a2dq54hn7vojomhl40ra0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.goldtime",
+            "certificate_hash": "6c7858e6148255714c98d735058d3dc48519b4cf"
+          }
+        },
+        {
+          "client_id": "1086179979380-ul3j0nlpv09v1epr04tulurvnlg2lm1b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBF9ve5jWRMSFywwlMFmuZUUu1KLnf0N_c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1086179979380-ul3j0nlpv09v1epr04tulurvnlg2lm1b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
